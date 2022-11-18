@@ -1,0 +1,20 @@
+.home {
+    
+    background: white;
+    
+}
+
+.button {
+    width: fit-content;
+    background:  rgb(227, 166, 186);
+    border: 1px solid white;
+    color: #fff;
+    font-size: 1.25rem;
+    padding: 0.5rem;
+    margin: auto;
+    margin-top: 10px;
+    position: relative;
+    border-radius: 8px;
+    outline: none;
+    cursor: pointer;
+}
