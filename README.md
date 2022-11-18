@@ -1,6 +1,9 @@
-MERN Project
+MERN Login Project
 
-The following are the details of the project:
+This is a project where a user can login in if they have an account and successfully land on the home page which has a navbar that helps to navigate to the the abput , contct and jobs pages. The home page has a logout button which successfully logs out the user.the four pages has a card componenet giving the details og the pages and the contct page and jobs pages has react map() to dynamically create a componenet.
+
+
+The following are some more details of the project:
 
 1.The frontend of the project uses React Js ,the backend uses Node JS, and the database is supported by MongoDB
 
