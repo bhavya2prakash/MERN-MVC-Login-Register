@@ -2,6 +2,8 @@ MERN Login Project
 
 This is a project where a user can login in if they have an account and successfully land on the home page which has a navbar that helps to navigate to the the abput , contct and jobs pages. The home page has a logout button which successfully logs out the user.the four pages has a card componenet giving the details og the pages and the contct page and jobs pages has react map() to dynamically create a componenet.
 
+Frontend: React-Js
+Backend:Node-JS ,Express, MongoDB
 
 The following are some more details of the project:
 
